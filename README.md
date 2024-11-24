@@ -1,3 +1,3 @@
 MERN - STACK Challenge updated
 new
-change on latest
+change on latest tech
