@@ -1,3 +1,2 @@
-MERN - STACK Challenge updated
-new
-change on latest technology of side
+MERN - STACK Challenge
+
